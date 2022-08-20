@@ -7,7 +7,7 @@ the app uses PostgreSQL as a database with help of SQLAlchemy as an ORM Model
 ### Posts  
 
 GET `/posts/` Get all posts  
-POST `/posts/` Get all posts  
+POST `/posts/` Post a post  
 GET `/posts/{id}` Get post by id  
 PUT `/posts/{id}` Update post by id  
 DELETE `/posts/{id}` Delet post by id
